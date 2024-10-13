@@ -54,7 +54,7 @@
     "@material-ui/lab": "^4.0.0-alpha.47",
     "@material-ui/pickers": "^3.2.10",
     "babel-jest": "^26.6.1",
-    "chart.js": "2.9.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "crypto-js": "^4.0.0",
     "date-fns": "^2.16.1",
